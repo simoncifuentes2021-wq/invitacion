@@ -1,0 +1,22 @@
+{
+  "invitados": [
+    {
+      "id": "familia-perez",
+      "tituloPortada": "Invitacion especial",
+      "nombrePortada": "Familia Perez",
+      "saludoHero": "Con mucha alegria queremos invitar a la Familia Perez a compartir este momento con nosotros.",
+      "mensajeHero": "Su carino, apoyo y presencia hacen esta celebracion aun mas significativa para nuestras vidas.",
+      "cantidadPases": 4,
+      "whatsappNombre": "Familia Perez"
+    },
+    {
+      "id": "maria-jose",
+      "tituloPortada": "Invitados de honor",
+      "nombrePortada": "Maria y Jose",
+      "saludoHero": "Maria y Jose, esta invitacion ha sido preparada especialmente para ustedes.",
+      "mensajeHero": "Nos encantaria que nos acompanen en este dia tan especial y sean parte de una celebracion llena de fe, amor y familia.",
+      "cantidadPases": 2,
+      "whatsappNombre": "Maria y Jose"
+    }
+  ]
+}
