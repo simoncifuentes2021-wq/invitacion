@@ -24,6 +24,7 @@
   />
   <link rel="preload" as="image" href="assets/cintaOro.png" />
   <link rel="preload" as="image" href="assets/floral-top-left.png" />
+  <link rel="preload" as="audio" href="assets/videoplayback.m4a" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body class="is-loading">
@@ -447,6 +448,15 @@
 
   <!-- Canvas para pétalos flotantes (main) -->
   <canvas id="petals-canvas"></canvas>
+
+  <audio id="bgMusic" loop preload="auto">
+    <source src="assets/videoplayback.m4a" type="audio/mp4" />
+  </audio>
+
+  <button class="music-toggle hidden" id="musicToggle" type="button" aria-label="Pausar música">
+    <span class="music-toggle-icon" aria-hidden="true">♫</span>
+    <span class="music-toggle-label">Música encendida</span>
+  </button>
 
   <a href="#confirmacion" class="floating-rsvp" aria-label="Ir a confirmación">
     <span>Confirmar asistencia</span>

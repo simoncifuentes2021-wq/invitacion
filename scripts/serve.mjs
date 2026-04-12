@@ -7,6 +7,7 @@ const root = resolve(process.cwd(), rootArg);
 const port = Number(portArg);
 
 const mimeTypes = {
+  '.m4a': 'audio/mp4',
   '.css': 'text/css; charset=utf-8',
   '.html': 'text/html; charset=utf-8',
   '.js': 'application/javascript; charset=utf-8',

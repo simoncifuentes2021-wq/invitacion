@@ -1367,6 +1367,63 @@ body::before {
   transition: transform 0.2s var(--ease-bloom), background 0.2s ease;
 }
 
+.music-toggle {
+  position: fixed;
+  right: 18px;
+  bottom: 86px;
+  z-index: 120;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  min-height: 48px;
+  padding: 0.8rem 1rem;
+  border: 1px solid rgba(201,168,76,0.28);
+  border-radius: 999px;
+  background: rgba(255,248,240,0.92);
+  color: var(--burgundy-dark);
+  box-shadow: 0 16px 34px rgba(92,10,30,0.18);
+  backdrop-filter: blur(10px);
+  font-family: var(--font-display);
+  font-size: 0.6rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: transform 0.2s var(--ease-bloom), background 0.2s ease, color 0.2s ease;
+}
+
+.music-toggle.hidden {
+  display: none;
+}
+
+.music-toggle:hover {
+  transform: translateY(-3px);
+  background: rgba(255,252,247,0.98);
+}
+
+.music-toggle.is-muted {
+  background: rgba(92,10,30,0.92);
+  color: var(--ivory);
+  border-color: rgba(255,255,255,0.16);
+}
+
+.music-toggle-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 50%;
+  background: rgba(201,168,76,0.18);
+  color: var(--gold-dark);
+  font-size: 0.95rem;
+  line-height: 1;
+}
+
+.music-toggle.is-muted .music-toggle-icon {
+  background: rgba(255,255,255,0.12);
+  color: var(--gold-light);
+}
+
 .floating-rsvp:hover {
   transform: translateY(-3px);
   background: rgba(92,10,30,0.96);
@@ -1692,6 +1749,13 @@ body::before {
     right: 12px;
     bottom: 12px;
     width: auto;
+  }
+
+  .music-toggle {
+    left: 12px;
+    right: 12px;
+    bottom: 78px;
+    justify-content: center;
   }
 }
 

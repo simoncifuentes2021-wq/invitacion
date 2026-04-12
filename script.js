@@ -66,6 +66,47 @@ function updateHtml(selector, value) {
   if (element && value) element.innerHTML = value;
 }
 
+function initMusicPlayer() {
+  const audio = document.getElementById('bgMusic');
+  const toggle = document.getElementById('musicToggle');
+
+  if (!audio || !toggle) return;
+
+  const label = toggle.querySelector('.music-toggle-label');
+
+  const renderState = () => {
+    const isPaused = audio.paused;
+    toggle.classList.toggle('is-muted', isPaused);
+    toggle.classList.remove('hidden');
+    toggle.setAttribute('aria-label', isPaused ? 'Reproducir música' : 'Pausar música');
+    if (label) {
+      label.textContent = isPaused ? 'Activar música' : 'Música encendida';
+    }
+  };
+
+  window._playInvitationMusic = async () => {
+    try {
+      audio.volume = 0.55;
+      await audio.play();
+    } catch {}
+    renderState();
+  };
+
+  toggle.addEventListener('click', async () => {
+    if (audio.paused) {
+      await window._playInvitationMusic();
+      return;
+    }
+
+    audio.pause();
+    renderState();
+  });
+
+  audio.addEventListener('play', renderState);
+  audio.addEventListener('pause', renderState);
+  renderState();
+}
+
 function buildGuestHeroMessage(guest) {
   const passes = Number(guest.cantidadPases || 1);
   const passesLabel = passes > 1 ? `${passes} lugares reservados` : '1 lugar reservado';
@@ -156,6 +197,8 @@ async function fetchGuestData() {
     }
   });
 })();
+
+initMusicPlayer();
 
 /* ══════════════════════════════════════════════════
    PÉTALOS / PARTÍCULAS — Canvas compartido
@@ -294,6 +337,10 @@ class Petal {
 
   function openInvitation() {
     if (!window._pageReadyForInteraction || !window._guestReady) return;
+
+    if (window._playInvitationMusic) {
+      window._playInvitationMusic();
+    }
 
     // Efecto de apertura: fade-out de la pantalla de apertura
     openScreen.classList.add('fade-out');
