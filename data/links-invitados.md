@@ -8,7 +8,7 @@ Dominio publicado: `https://invitacion-theta-pearl.vercel.app`
 - Cecilia Hurtado: `https://invitacion-theta-pearl.vercel.app/?id=cecilia-hurtado`
 - Rosa Buenuleo: `https://invitacion-theta-pearl.vercel.app/?id=rosa-buenuleo`
 - Jacobo Traipe: `https://invitacion-theta-pearl.vercel.app/?id=jacobo-traipe`
-- Rodrigo y esposa: `https://invitacion-theta-pearl.vercel.app/?id=rodrigo-esposa`
+- Rodrigo y Esposa: `https://invitacion-theta-pearl.vercel.app/?id=rodrigo-esposa`
 - Manuel y Alejandra: `https://invitacion-theta-pearl.vercel.app/?id=manuel-alejandra`
 - Familia Salamanca Navarrete: `https://invitacion-theta-pearl.vercel.app/?id=familia-salamanca-navarrete`
 - Felipe Casimimo: `https://invitacion-theta-pearl.vercel.app/?id=felipe-casimimo`
@@ -23,7 +23,7 @@ Dominio publicado: `https://invitacion-theta-pearl.vercel.app`
 - Jennifer: `https://invitacion-theta-pearl.vercel.app/?id=jennifer`
 - Monserrat: `https://invitacion-theta-pearl.vercel.app/?id=monserrat`
 - Oscar Ñancupil: `https://invitacion-theta-pearl.vercel.app/?id=oscar-nancupil`
-- Danilo y Julieta: `https://invitacion-theta-pearl.vercel.app/?id=danilo-julieta`
+- Danilo y Juliett: `https://invitacion-theta-pearl.vercel.app/?id=danilo-julieta`
 - Simon Cifuentes: `https://invitacion-theta-pearl.vercel.app/?id=simon-cifuentes`
 - Maria Deisy Muñoz: `https://invitacion-theta-pearl.vercel.app/?id=maria-deisy-munoz`
 - Ronny y Jesenia: `https://invitacion-theta-pearl.vercel.app/?id=ronny-jesenia`
@@ -36,10 +36,10 @@ Dominio publicado: `https://invitacion-theta-pearl.vercel.app`
 - Moises y Silvia: `https://invitacion-theta-pearl.vercel.app/?id=moises-silvia`
 - Ivan y Roxana: `https://invitacion-theta-pearl.vercel.app/?id=ivan-roxana`
 - Diego y Barbara: `https://invitacion-theta-pearl.vercel.app/?id=diego-barbara`
-- Luis Quidel y esposa: `https://invitacion-theta-pearl.vercel.app/?id=luis-quidel-esposa`
-- Luis Curiche y esposa: `https://invitacion-theta-pearl.vercel.app/?id=luis-curiche-esposa`
-- Yoni Catrilaf y esposa: `https://invitacion-theta-pearl.vercel.app/?id=yoni-catrilaf-esposa`
-- Juancarlos Kearliys y esposa: `https://invitacion-theta-pearl.vercel.app/?id=juancarlos-kearliys-esposa`
+- Luis Quidel y Esposa: `https://invitacion-theta-pearl.vercel.app/?id=luis-quidel-esposa`
+- Luis Curiche y Esposa: `https://invitacion-theta-pearl.vercel.app/?id=luis-curiche-esposa`
+- Yoni Catrilaf y Esposa: `https://invitacion-theta-pearl.vercel.app/?id=yoni-catrilaf-esposa`
+- Juancarlos Kearliys y Esposa: `https://invitacion-theta-pearl.vercel.app/?id=juancarlos-kearliys-esposa`
 - Daniel Albarran y Jaqueline Jaque: `https://invitacion-theta-pearl.vercel.app/?id=daniel-albarran-jaqueline-jaque`
 
 ## Enlaces relativos
@@ -48,7 +48,7 @@ Dominio publicado: `https://invitacion-theta-pearl.vercel.app`
 - Cecilia Hurtado: `/?id=cecilia-hurtado`
 - Rosa Buenuleo: `/?id=rosa-buenuleo`
 - Jacobo Traipe: `/?id=jacobo-traipe`
-- Rodrigo y esposa: `/?id=rodrigo-esposa`
+- Rodrigo y Esposa: `/?id=rodrigo-esposa`
 - Manuel y Alejandra: `/?id=manuel-alejandra`
 - Familia Salamanca Navarrete: `/?id=familia-salamanca-navarrete`
 - Felipe Casimimo: `/?id=felipe-casimimo`
@@ -63,7 +63,7 @@ Dominio publicado: `https://invitacion-theta-pearl.vercel.app`
 - Jennifer: `/?id=jennifer`
 - Monserrat: `/?id=monserrat`
 - Oscar Ñancupil: `/?id=oscar-nancupil`
-- Danilo y Julieta: `/?id=danilo-julieta`
+- Danilo y Juliett: `/?id=danilo-julieta`
 - Simon Cifuentes: `/?id=simon-cifuentes`
 - Maria Deisy Muñoz: `/?id=maria-deisy-munoz`
 - Ronny y Jesenia: `/?id=ronny-jesenia`
@@ -76,8 +76,8 @@ Dominio publicado: `https://invitacion-theta-pearl.vercel.app`
 - Moises y Silvia: `/?id=moises-silvia`
 - Ivan y Roxana: `/?id=ivan-roxana`
 - Diego y Barbara: `/?id=diego-barbara`
-- Luis Quidel y esposa: `/?id=luis-quidel-esposa`
-- Luis Curiche y esposa: `/?id=luis-curiche-esposa`
-- Yoni Catrilaf y esposa: `/?id=yoni-catrilaf-esposa`
-- Juancarlos Kearliys y esposa: `/?id=juancarlos-kearliys-esposa`
+- Luis Quidel y Esposa: `/?id=luis-quidel-esposa`
+- Luis Curiche y Esposa: `/?id=luis-curiche-esposa`
+- Yoni Catrilaf y Esposa: `/?id=yoni-catrilaf-esposa`
+- Juancarlos Kearliys y Esposa: `/?id=juancarlos-kearliys-esposa`
 - Daniel Albarran y Jaqueline Jaque: `/?id=daniel-albarran-jaqueline-jaque`
