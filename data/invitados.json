@@ -332,6 +332,60 @@
       "mensajeHero": "Nos encantaria compartir con ustedes este dia tan importante y celebrar juntos nuestro matrimonio.",
       "cantidadPases": 2,
       "whatsappNombre": "Daniel Albarran y Jaqueline Jaque"
+    },
+    {
+      "id": "celeste-sala-antonia-soto",
+      "tituloPortada": "Invitacion especial",
+      "nombrePortada": "Celeste Sala y Antonia Soto",
+      "saludoHero": "Esta invitacion ha sido preparada especialmente para Celeste Sala y Antonia Soto.",
+      "mensajeHero": "Nos encantaria compartir con ustedes este dia tan importante y celebrar juntos nuestro matrimonio.",
+      "cantidadPases": 2,
+      "whatsappNombre": "Celeste Sala y Antonia Soto"
+    },
+    {
+      "id": "angelina-jose-ortega",
+      "tituloPortada": "Invitacion especial",
+      "nombrePortada": "Angelina y Jose Ortega",
+      "saludoHero": "Esta invitacion ha sido preparada especialmente para Angelina y Jose Ortega.",
+      "mensajeHero": "Nos encantaria compartir con ustedes este dia tan importante y celebrar juntos nuestro matrimonio.",
+      "cantidadPases": 2,
+      "whatsappNombre": "Angelina y Jose Ortega"
+    },
+    {
+      "id": "jenifer-ortega",
+      "tituloPortada": "Invitacion especial",
+      "nombrePortada": "Jenifer Ortega",
+      "saludoHero": "Esta invitacion ha sido preparada especialmente para Jenifer Ortega.",
+      "mensajeHero": "Nos encantaria compartir contigo este dia tan importante y celebrar juntos nuestro matrimonio.",
+      "cantidadPases": 1,
+      "whatsappNombre": "Jenifer Ortega"
+    },
+    {
+      "id": "beatriz-neilaf",
+      "tituloPortada": "Invitacion especial",
+      "nombrePortada": "Beatriz Neilaf",
+      "saludoHero": "Esta invitacion ha sido preparada especialmente para Beatriz Neilaf.",
+      "mensajeHero": "Nos encantaria compartir contigo este dia tan importante y celebrar juntos nuestro matrimonio.",
+      "cantidadPases": 1,
+      "whatsappNombre": "Beatriz Neilaf"
+    },
+    {
+      "id": "juanita-neilaf",
+      "tituloPortada": "Invitacion especial",
+      "nombrePortada": "Juanita Neilaf",
+      "saludoHero": "Esta invitacion ha sido preparada especialmente para Juanita Neilaf.",
+      "mensajeHero": "Nos encantaria compartir contigo este dia tan importante y celebrar juntos nuestro matrimonio.",
+      "cantidadPases": 1,
+      "whatsappNombre": "Juanita Neilaf"
+    },
+    {
+      "id": "rodrigo-traipe-esposa",
+      "tituloPortada": "Invitacion especial",
+      "nombrePortada": "Rodrigo Traipe y Esposa",
+      "saludoHero": "Esta invitacion ha sido preparada especialmente para Rodrigo Traipe y Esposa.",
+      "mensajeHero": "Nos encantaria compartir con ustedes este dia tan importante y celebrar juntos nuestro matrimonio.",
+      "cantidadPases": 2,
+      "whatsappNombre": "Rodrigo Traipe y Esposa"
     }
   ]
 }

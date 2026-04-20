@@ -41,6 +41,12 @@ Dominio publicado: `https://invitacion-theta-pearl.vercel.app`
 - Yoni Catrilaf y Esposa: `https://invitacion-theta-pearl.vercel.app/?id=yoni-catrilaf-esposa`
 - Juancarlos Kearliys y Esposa: `https://invitacion-theta-pearl.vercel.app/?id=juancarlos-kearliys-esposa`
 - Daniel Albarran y Jaqueline Jaque: `https://invitacion-theta-pearl.vercel.app/?id=daniel-albarran-jaqueline-jaque`
+- Celeste Sala y Antonia Soto: `https://invitacion-theta-pearl.vercel.app/?id=celeste-sala-antonia-soto`
+- Angelina y Jose Ortega: `https://invitacion-theta-pearl.vercel.app/?id=angelina-jose-ortega`
+- Jenifer Ortega: `https://invitacion-theta-pearl.vercel.app/?id=jenifer-ortega`
+- Beatriz Neilaf: `https://invitacion-theta-pearl.vercel.app/?id=beatriz-neilaf`
+- Juanita Neilaf: `https://invitacion-theta-pearl.vercel.app/?id=juanita-neilaf`
+- Rodrigo Traipe y Esposa: `https://invitacion-theta-pearl.vercel.app/?id=rodrigo-traipe-esposa`
 
 ## Enlaces relativos
 
@@ -81,3 +87,9 @@ Dominio publicado: `https://invitacion-theta-pearl.vercel.app`
 - Yoni Catrilaf y Esposa: `/?id=yoni-catrilaf-esposa`
 - Juancarlos Kearliys y Esposa: `/?id=juancarlos-kearliys-esposa`
 - Daniel Albarran y Jaqueline Jaque: `/?id=daniel-albarran-jaqueline-jaque`
+- Celeste Sala y Antonia Soto: `/?id=celeste-sala-antonia-soto`
+- Angelina y Jose Ortega: `/?id=angelina-jose-ortega`
+- Jenifer Ortega: `/?id=jenifer-ortega`
+- Beatriz Neilaf: `/?id=beatriz-neilaf`
+- Juanita Neilaf: `/?id=juanita-neilaf`
+- Rodrigo Traipe y Esposa: `/?id=rodrigo-traipe-esposa`
