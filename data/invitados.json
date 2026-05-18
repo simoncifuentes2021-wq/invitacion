@@ -397,22 +397,13 @@
       "whatsappNombre": "Estefania y Fabián"
     },
     {
-      "id": "hipolito-colicheo",
+      "id": "hipolito-colicheo-consuelo-fernandez",
       "tituloPortada": "Invitacion especial",
-      "nombrePortada": "Hipólito Colicheo",
-      "saludoHero": "Esta invitacion ha sido preparada especialmente para Hipólito Colicheo.",
-      "mensajeHero": "Nos encantaria compartir contigo este dia tan importante y celebrar juntos nuestro matrimonio.",
-      "cantidadPases": 1,
-      "whatsappNombre": "Hipólito Colicheo"
-    },
-    {
-      "id": "consuelo-fernandez",
-      "tituloPortada": "Invitacion especial",
-      "nombrePortada": "Consuelo Fernández",
-      "saludoHero": "Esta invitacion ha sido preparada especialmente para Consuelo Fernández.",
-      "mensajeHero": "Nos encantaria compartir contigo este dia tan importante y celebrar juntos nuestro matrimonio.",
-      "cantidadPases": 1,
-      "whatsappNombre": "Consuelo Fernández"
+      "nombrePortada": "Hipólito Colicheo y Consuelo Fernández",
+      "saludoHero": "Esta invitacion ha sido preparada especialmente para Hipólito Colicheo y Consuelo Fernández.",
+      "mensajeHero": "Nos encantaria compartir con ustedes este dia tan importante y celebrar juntos nuestro matrimonio.",
+      "cantidadPases": 2,
+      "whatsappNombre": "Hipólito Colicheo y Consuelo Fernández"
     }
   ]
 }
