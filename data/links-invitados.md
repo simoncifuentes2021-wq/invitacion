@@ -47,6 +47,9 @@ Dominio publicado: `https://invitacion-theta-pearl.vercel.app`
 - Beatriz Neilaf: `https://invitacion-theta-pearl.vercel.app/?id=beatriz-neilaf`
 - Juanita Neilaf: `https://invitacion-theta-pearl.vercel.app/?id=juanita-neilaf`
 - Rodrigo Traipe y Esposa: `https://invitacion-theta-pearl.vercel.app/?id=rodrigo-traipe-esposa`
+- Estefania y Fabián: `https://invitacion-theta-pearl.vercel.app/?id=estefania-fabian`
+- Hipólito Colicheo: `https://invitacion-theta-pearl.vercel.app/?id=hipolito-colicheo`
+- Consuelo Fernández: `https://invitacion-theta-pearl.vercel.app/?id=consuelo-fernandez`
 
 ## Enlaces relativos
 
@@ -93,3 +96,6 @@ Dominio publicado: `https://invitacion-theta-pearl.vercel.app`
 - Beatriz Neilaf: `/?id=beatriz-neilaf`
 - Juanita Neilaf: `/?id=juanita-neilaf`
 - Rodrigo Traipe y Esposa: `/?id=rodrigo-traipe-esposa`
+- Estefania y Fabián: `/?id=estefania-fabian`
+- Hipólito Colicheo: `/?id=hipolito-colicheo`
+- Consuelo Fernández: `/?id=consuelo-fernandez`
