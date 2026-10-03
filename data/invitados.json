@@ -413,6 +413,15 @@
       "mensajeHero": "Nos encantaria compartir con ustedes este dia tan importante y celebrar juntos nuestro matrimonio.",
       "cantidadPases": 2,
       "whatsappNombre": "Kajfvkura y Millaray"
+    },
+    {
+      "id": "javier-lucia",
+      "tituloPortada": "Invitacion especial",
+      "nombrePortada": "Javier y Lucia",
+      "saludoHero": "Esta invitacion ha sido preparada especialmente para Javier y Lucia.",
+      "mensajeHero": "Nos encantaria compartir con ustedes este dia tan importante y celebrar juntos nuestro matrimonio.",
+      "cantidadPases": 2,
+      "whatsappNombre": "Javier y Lucia"
     }
   ]
 }
