@@ -422,6 +422,15 @@
       "mensajeHero": "Nos encantaria compartir con ustedes este dia tan importante y celebrar juntos nuestro matrimonio.",
       "cantidadPases": 2,
       "whatsappNombre": "Javier y Lucia"
+    },
+    {
+      "id": "paola-llancao",
+      "tituloPortada": "Invitacion especial",
+      "nombrePortada": "Paola Llancao",
+      "saludoHero": "Esta invitacion ha sido preparada especialmente para Paola Llancao.",
+      "mensajeHero": "Nos encantaria compartir contigo este dia tan importante y celebrar juntos nuestro matrimonio.",
+      "cantidadPases": 1,
+      "whatsappNombre": "Paola Llancao"
     }
   ]
 }
