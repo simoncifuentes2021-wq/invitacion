@@ -54,6 +54,8 @@ Dominio publicado: `https://invitacion-theta-pearl.vercel.app`
 
 - Javier y Lucia: `https://invitacion-theta-pearl.vercel.app/?id=javier-lucia`
 
+- Paola Llancao: `https://invitacion-theta-pearl.vercel.app/?id=paola-llancao`
+
 ## Enlaces relativos
 
 - Miguel y Camila: `/?id=miguel-camila`
@@ -103,3 +105,4 @@ Dominio publicado: `https://invitacion-theta-pearl.vercel.app`
 - Hipólito Colicheo y Consuelo Fernández: `/?id=hipolito-colicheo-consuelo-fernandez`
 - Kajfvkura y Millaray: `/?id=kajfvkura-millaray`
 - Javier y Lucia: `/?id=javier-lucia`
+- Paola Llancao: `/?id=paola-llancao`
